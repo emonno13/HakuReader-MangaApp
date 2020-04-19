@@ -1,4 +1,4 @@
-# HakuReader
+# HakuReader - 10.10.2019
 ## You can enjoy my app by downloading Expo app on your mobile & scan QR code in here : https://expo.io/@emonno13/HakuReader . 
 ## Please create your new account & don't login with facebook or google.
 ### The manga app was build with Firebase backend and Expo tool, Sengrid mail api. So i made my APIs private.
